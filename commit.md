@@ -1,1 +1,1 @@
-unread component created on 4/13/2018
+Fix typo in vuetable-2 dependencies section on 5/8/2018
