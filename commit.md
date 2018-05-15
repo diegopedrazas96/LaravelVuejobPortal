@@ -1,1 +1,1 @@
-fix vue select props type warning on 6/4/2018
+recompile on 5/29/2018
