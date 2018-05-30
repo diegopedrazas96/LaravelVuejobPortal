@@ -1,1 +1,1 @@
-Update app.js as MyVuetable.vue was updated on 5/11/2018
+change demo image on 6/2/2018
