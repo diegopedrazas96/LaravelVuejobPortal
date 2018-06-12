@@ -1,1 +1,1 @@
-Update package dependencies on 5/14/2018
+add new webpack dev server http access variable on 6/19/2018
