@@ -1,1 +1,1 @@
-recompile on 5/29/2018
+follow tutorial up to lesson-6 on 5/25/2018
