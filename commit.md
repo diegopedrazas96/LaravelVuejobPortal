@@ -1,1 +1,1 @@
-add frontend assets on 6/13/2018
+Update package dependencies on 5/18/2018
