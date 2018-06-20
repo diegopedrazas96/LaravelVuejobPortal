@@ -1,1 +1,1 @@
-add new webpack dev server http access variable on 6/20/2018
+follow tutorial up to lesson-6 on 5/23/2018
